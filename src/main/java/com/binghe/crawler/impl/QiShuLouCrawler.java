@@ -26,6 +26,8 @@ public class QiShuLouCrawler implements Crawler {
 	
 	@Override
 	public void run() {
+		// 二的修改
+		
 		// 小说主页
 		String mainUrl = "https://www.qishulou.com/xuanyi/fangjian/";
 		// 本地文本文件路径
